@@ -18,7 +18,7 @@ A Node.js tool to delete all DNS records for a specified domain on Cloudflare, s
 
 1. **Clone or Download** this repository:
    ```bash
-   git clone https://github.com/yourusername/deleteAllCloudflareDNS.git
+   git clone https://github.com/EnesKeremAYDIN/deleteAllCloudflareDNS.git
    cd deleteAllCloudflareDNS
    ```
 
